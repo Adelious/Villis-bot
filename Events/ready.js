@@ -17,7 +17,7 @@ module.exports = {
 
 		await client.user.setPresence({
 			activities: [{
-				name: 'Server Manager',
+				name: 'shop.villis.fr',
 				type: ActivityType.Playing,
 			}],
 			status: 'dnd',
