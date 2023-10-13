@@ -7,7 +7,7 @@ const serverUrl = 'https://villis.fr';
 const serverUrl1 = 'https://panel.villis.fr';
 
 const emojiUp = '🟢';
-const emojiDown = '🔴';
+const emojiDown = '⭕';
 
 module.exports = {
 	name: Events.ClientReady,
