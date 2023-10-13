@@ -1,0 +1,26 @@
+{
+  "name": "villis-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adelious/villis-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adelious/villis-bot/issues"
+  },
+  "homepage": "https://github.com/Adelious/villis-bot#readme",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
